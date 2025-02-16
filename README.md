@@ -7,5 +7,5 @@ A simple HTML page showcasing delicious Nigerian dishes: Jollof Rice, Moi Moi, a
 - Step-by-step instructions.
 
 ## Check it out:
-- Navigate to the website address [here](cqawam.github.io/odin-recipes).
+- Navigate to the website address [here](https://cqawam.github.io/odin-recipes).
 - Explore and enjoy the recipes!
